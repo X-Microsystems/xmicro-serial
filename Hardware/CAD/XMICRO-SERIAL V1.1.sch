@@ -15259,7 +15259,7 @@ http://www.st.com&lt;p&gt;
 <wire x1="208.28" y1="152.4" x2="208.28" y2="165.1" width="0.1524" layer="91"/>
 <pinref part="U24" gate="G$1" pin="INT"/>
 <wire x1="208.28" y1="165.1" x2="203.2" y2="165.1" width="0.1524" layer="91"/>
-<label x="332.74" y="142.24" size="1.016" layer="95" xref="yes"/>
+<label x="345.948" y="142.24" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$26" class="0">
@@ -15417,7 +15417,7 @@ http://www.st.com&lt;p&gt;
 <wire x1="208.28" y1="60.96" x2="287.02" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="287.02" y1="60.96" x2="287.02" y2="50.8" width="0.1524" layer="91"/>
 <wire x1="287.02" y1="50.8" x2="332.74" y2="50.8" width="0.1524" layer="91"/>
-<label x="332.74" y="50.8" size="1.016" layer="95" xref="yes"/>
+<label x="345.948" y="50.8" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$122" class="0">
@@ -15654,13 +15654,13 @@ http://www.st.com&lt;p&gt;
 <pinref part="J1" gate="G$1" pin="P$10"/>
 <wire x1="322.58" y1="162.56" x2="322.58" y2="160.02" width="0.1524" layer="91"/>
 <wire x1="322.58" y1="160.02" x2="332.74" y2="160.02" width="0.1524" layer="91"/>
-<label x="332.74" y="160.02" size="1.016" layer="95" xref="yes"/>
+<label x="343.154" y="160.02" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="P$10"/>
 <wire x1="322.58" y1="68.58" x2="322.58" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="322.58" y1="68.58" x2="332.74" y2="68.58" width="0.1524" layer="91"/>
-<label x="332.74" y="68.58" size="1.016" layer="95" xref="yes"/>
+<label x="343.154" y="68.58" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 </nets>
@@ -15968,7 +15968,7 @@ the data register is read by the CPU.</text>
 <segment>
 <pinref part="U4" gate="A" pin="O"/>
 <wire x1="104.14" y1="210.82" x2="119.38" y2="210.82" width="0.1524" layer="91"/>
-<label x="119.38" y="210.82" size="1.016" layer="95" xref="yes"/>
+<label x="131.064" y="210.82" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$69" class="0">
@@ -16256,7 +16256,7 @@ the data register is read by the CPU.</text>
 <segment>
 <pinref part="U2" gate="A" pin="O"/>
 <wire x1="342.9" y1="208.28" x2="358.14" y2="208.28" width="0.1524" layer="91"/>
-<label x="358.14" y="208.28" size="1.016" layer="95" xref="yes"/>
+<label x="369.062" y="208.28" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="!KB_WRCYCLE" class="0">
@@ -16301,14 +16301,14 @@ the data register is read by the CPU.</text>
 <wire x1="284.48" y1="71.12" x2="284.48" y2="55.88" width="0.1524" layer="91"/>
 <pinref part="U14" gate="A" pin="CLR"/>
 <wire x1="284.48" y1="55.88" x2="287.02" y2="55.88" width="0.1524" layer="91"/>
-<label x="358.14" y="86.36" size="1.016" layer="95" xref="yes"/>
+<label x="368.554" y="86.36" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="!INT_KB" class="0">
 <segment>
 <pinref part="U14" gate="B" pin="!Q"/>
 <wire x1="312.42" y1="76.2" x2="358.14" y2="76.2" width="0.1524" layer="91"/>
-<label x="358.14" y="76.2" size="1.016" layer="95" xref="yes"/>
+<label x="368.554" y="76.2" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="BUFF_KB_CLOCK" class="0">
@@ -16329,9 +16329,9 @@ the data register is read by the CPU.</text>
 <junction x="96.52" y="88.9"/>
 </segment>
 <segment>
-<label x="119.38" y="190.5" size="1.016" layer="95" xref="yes"/>
 <wire x1="109.22" y1="190.5" x2="119.38" y2="190.5" width="0.1524" layer="91"/>
 <pinref part="U2" gate="C" pin="O"/>
+<label x="137.16" y="190.5" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$19" class="0">
@@ -16355,7 +16355,7 @@ the data register is read by the CPU.</text>
 <pinref part="Q2" gate="G$1" pin="C"/>
 <wire x1="337.82" y1="68.58" x2="337.82" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="337.82" y1="71.12" x2="358.14" y2="71.12" width="0.1524" layer="91"/>
-<label x="358.14" y="71.12" size="1.016" layer="95" xref="yes"/>
+<label x="371.094" y="71.12" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J3" gate="G$1" pin="5"/>
@@ -16369,13 +16369,12 @@ the data register is read by the CPU.</text>
 <wire x1="73.66" y1="193.04" x2="73.66" y2="179.07" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="179.07" x2="119.38" y2="179.07" width="0.1524" layer="91"/>
 <junction x="73.66" y="193.04"/>
-<label x="119.38" y="179.07" size="1.016" layer="95" xref="yes"/>
 <pinref part="TP1" gate="G$1" pin="1"/>
+<label x="132.334" y="179.07" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="KB_DATA" class="0">
 <segment>
-<label x="119.38" y="203.2" size="1.016" layer="95" xref="yes"/>
 <pinref part="J3" gate="G$1" pin="1"/>
 <wire x1="53.34" y1="203.2" x2="63.5" y2="203.2" width="0.1524" layer="91"/>
 <pinref part="R6" gate="G$1" pin="1"/>
@@ -16390,6 +16389,7 @@ the data register is read by the CPU.</text>
 <pinref part="U4" gate="A" pin="I"/>
 <pinref part="TP2" gate="G$1" pin="1"/>
 <junction x="73.66" y="203.2"/>
+<label x="131.064" y="203.2" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="SHIELD" class="2">
@@ -16398,7 +16398,7 @@ the data register is read by the CPU.</text>
 <wire x1="53.34" y1="187.96" x2="55.88" y2="187.96" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="187.96" x2="55.88" y2="175.26" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="175.26" x2="119.38" y2="175.26" width="0.1524" layer="91"/>
-<label x="119.38" y="175.26" size="1.016" layer="95" xref="yes"/>
+<label x="129.794" y="175.26" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 </nets>
@@ -16716,7 +16716,7 @@ the data register is read by the CPU.</text>
 <pinref part="Q3" gate="G$1" pin="C"/>
 <wire x1="259.08" y1="162.56" x2="259.08" y2="165.1" width="0.1524" layer="91"/>
 <wire x1="259.08" y1="165.1" x2="322.58" y2="165.1" width="0.1524" layer="91"/>
-<label x="322.58" y="165.1" size="1.016" layer="95" xref="yes"/>
+<label x="334.264" y="165.1" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="!KB_DATA" class="0">
@@ -16794,7 +16794,7 @@ the data register is read by the CPU.</text>
 <wire x1="205.74" y1="96.52" x2="213.36" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="96.52" x2="213.36" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="60.96" x2="322.58" y2="60.96" width="0.1524" layer="91"/>
-<label x="322.58" y="60.96" size="1.016" layer="95" xref="yes"/>
+<label x="337.82" y="60.96" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$132" class="0">
@@ -16899,7 +16899,7 @@ the data register is read by the CPU.</text>
 <pinref part="Q1" gate="G$1" pin="C"/>
 <wire x1="312.42" y1="109.22" x2="312.42" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="312.42" y1="111.76" x2="322.58" y2="111.76" width="0.1524" layer="91"/>
-<label x="322.58" y="111.76" size="1.016" layer="95" xref="yes"/>
+<label x="335.534" y="111.76" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="KB_WRCYCLE" class="0">
@@ -16917,10 +16917,10 @@ the data register is read by the CPU.</text>
 <wire x1="210.82" y1="83.82" x2="210.82" y2="55.88" width="0.1524" layer="91"/>
 <junction x="210.82" y="83.82"/>
 <wire x1="210.82" y1="55.88" x2="322.58" y2="55.88" width="0.1524" layer="91"/>
-<label x="322.58" y="55.88" size="1.016" layer="95" xref="yes"/>
 <pinref part="U6" gate="B" pin="CLK"/>
 <wire x1="210.82" y1="99.06" x2="223.52" y2="99.06" width="0.1524" layer="91"/>
 <junction x="210.82" y="99.06"/>
+<label x="337.82" y="55.88" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$22" class="0">
@@ -17233,14 +17233,14 @@ reduced loading on bus lines.</text>
 <segment>
 <pinref part="U2" gate="D" pin="O"/>
 <wire x1="228.6" y1="76.2" x2="243.84" y2="76.2" width="0.1524" layer="91"/>
-<label x="243.84" y="76.2" size="1.016" layer="95" rot="MR180" xref="yes"/>
+<label x="251.968" y="76.2" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="!IRQX" class="0">
 <segment>
 <wire x1="109.22" y1="114.3" x2="96.52" y2="114.3" width="0.1524" layer="91"/>
-<label x="96.52" y="114.3" size="1.016" layer="95" rot="MR0" xref="yes"/>
 <pinref part="CE0" gate="G$1" pin="!IRQX@52"/>
+<label x="87.884" y="114.3" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="!BCSX" class="0">
@@ -17773,15 +17773,15 @@ reduced loading on bus lines.</text>
 <net name="!CS_KBR" class="0">
 <segment>
 <wire x1="109.22" y1="124.46" x2="119.38" y2="124.46" width="0.1524" layer="91"/>
-<label x="119.38" y="124.46" size="1.016" layer="95" xref="yes"/>
 <pinref part="U9" gate="A" pin="Y0"/>
+<label x="130.556" y="124.46" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="!CS_KBW" class="0">
 <segment>
 <wire x1="109.22" y1="93.98" x2="119.38" y2="93.98" width="0.1524" layer="91"/>
-<label x="119.38" y="93.98" size="1.016" layer="95" xref="yes"/>
 <pinref part="U8" gate="A" pin="Y0"/>
+<label x="130.81" y="93.98" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="!CS_STR" class="0">
@@ -18341,9 +18341,9 @@ and shield jumpers.</text>
 </net>
 <net name="!IRQX" class="0">
 <segment>
-<label x="149.86" y="137.16" size="1.016" layer="95" xref="yes"/>
 <wire x1="134.62" y1="137.16" x2="149.86" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="U22" gate="F" pin="O"/>
+<label x="158.75" y="137.16" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="INT_UART1" class="0">
