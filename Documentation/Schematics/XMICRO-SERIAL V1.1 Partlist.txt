@@ -1,6 +1,6 @@
 Partlist
 
-Exported from XMICRO-SERIAL V1.1.sch at 3/23/2019 12:39:46 PM
+Exported from XMICRO-SERIAL V1.1.sch at 10/26/2019 10:23:13 PM
 
 EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
 
@@ -35,10 +35,11 @@ C24      0.1uF              C-US100               C100      Custom              
 C25      0.1uF              C-US100               C100      Custom              6
 C26      0.1uF              C-US100               C100      Custom              6
 C27      0.1uF              C-US100               C100      Custom              6
-C28      10nF               C-US100               C100      Custom              3
-C29      0.1uF              CPOL-USE2.5-6         E2,5-6    rcl                 3
-C30      220uF              CPOL-US-10-5          C-10-5    Custom              6
-C31      0.1uF              C-US100               C100      Custom              6
+C28      0.1uF              C-US100               C100      Custom              6
+C29      10nF               C-US100               C100      Custom              3
+C30      0.1uF              CPOL-USE2.5-6         E2,5-6    rcl                 3
+C31      220uF              CPOL-US-10-5          C-10-5    Custom              6
+C32      0.1uF              C-US100               C100      Custom              6
 C33      0.1uF              C-US100               C100      Custom              6
 C34      0.1uF              C-US100               C100      Custom              1
 C35      0.1uF              C-US100               C100      Custom              1
@@ -99,4 +100,5 @@ U24      16550              16C550S44             S44       Custom              
 U25      16550              16C550S44             S44       Custom              1
 U26      75185              75C185N               DIL20     Custom              1
 U27      75185              75C185N               DIL20     Custom              1
+U28      7414               74LS14N               DIL14     74xx-us             2
 Y1       1.8432MHz          OSC-OE                DIL08S    Custom              1
