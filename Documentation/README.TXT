@@ -1,1 +1,1 @@
-All files apply to XMICRO-Serial V1.1.
+All files are based on XMICRO-Serial V1.0 2410.
